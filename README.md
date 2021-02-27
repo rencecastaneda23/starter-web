@@ -15,3 +15,8 @@ Adding a second paragaph
 >>>>>>> f58c5517d06561a95238914bb95034b3d1937b7f
 
 ## How to Contribute
+
+
+###Copyright
+
+2014 Git.Training.
