@@ -8,6 +8,6 @@ Adding a paragraph over here.
 ## Purpose
 
 ## Deployment
-Added a second paragraph over here
+Adding a second paragaph
 
 ## How to Contribute
