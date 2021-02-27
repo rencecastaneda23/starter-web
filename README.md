@@ -15,7 +15,7 @@ Adding a second paragaph
 >>>>>>> f58c5517d06561a95238914bb95034b3d1937b7f
 
 ## How to Contribute
-
+Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 
